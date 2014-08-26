@@ -1,0 +1,9 @@
+# Site settings
+title: ヒロハタを勝手に応援するサイト - すごい広島
+description: "ヒロハタを応援する情報発信をします。"
+baseurl: "/hirohata"
+url: "http://great-h.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/

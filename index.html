@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  このサイトは<a href="http://hiro-hata.com/" target="_blank">ヒロハタ</a>をより盛り上げるために、各ユニットを勝手に応援するためのサイトです。
+  毎週月曜日にレポートを作成する予定です。
+
+  <h1>レポート</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
