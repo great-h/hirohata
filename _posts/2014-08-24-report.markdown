@@ -34,7 +34,7 @@ date:   2014-08-24 00:00:00
 
 * 2014-08-23 [土砂災害へのボランティア活動を行いました](http://www.facebook.com/PocketPlan/posts/690281907724451)
 
-# メガホン
+# [メガフォン](https://github.com/tsuchim/megaphone)
 
 * 2014-08-23 [サンプルアプリケーションを公開しました](http://api.m-ph.org:3000/)
 
