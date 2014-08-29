@@ -17,7 +17,8 @@ desc 'reportの雛形を生成'
 task :report do
   date = Date.today.last_week
   end_date = Hirohata::Reporter.end_date(date)
-  body = Hirohata::Reporter.report
+  reporter = Hirohata::Reporter.new(Hirohata::Reporter.config)
+  body = reporter.report(end_date, :all)
   File.open("_posts/#{end_date}-report.markdown","w") do |io|
     io.puts body
   end
