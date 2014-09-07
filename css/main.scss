@@ -199,6 +199,16 @@ a:visited { color: #205caa; }
   margin: 40px 0 20px;
 }
 
+.post-content h1 {
+  border-left-style: solid;
+  border-left-width: 8px;
+  border-left-color: #aaa;
+  margin-top: 1.5em;
+  padding-left: 20px;
+  font-size: 36px;
+  letter-spacing: -1.5px;
+}
+
 .post-content h2 {
   font-size: 32px;
   letter-spacing: -1.25px;
