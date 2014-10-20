@@ -1,0 +1,5 @@
+* 2014-11-01 [イラストを描くのに便利なソフト 「SAI」初心者講座](http://www.facebook.com/events/839353869430931/permalink/839353876097597/)
+2014-11-08 [ShakeHands 経洗塾体験会](https://www.facebook.com/CoworkingShakeHands/posts/809835995734463)
+* 2014-11-08 [Feelin'Groovy vol.4 〜はいざらこうかん『のるかソウルか』リリースツアー in 広島〜](https://www.facebook.com/events/754864384586175/permalink/754864387919508/)
+* 2014-11-09 [デザインマネジメント田子學×fabcafe林千晶～ものづくり新論～（イベント告知）](http://tecre.jp/hiroshima-monodukuri-loftwork-2/)
+* 2014-11-26 [第2回 広島の楽しい100人](https://www.facebook.com/events/381577058675130/permalink/381577062008463/)
