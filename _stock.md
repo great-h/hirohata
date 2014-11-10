@@ -1,5 +1,3 @@
-* 2014-11-11 [広島のサークルを盛り上げよう！！交流勉強会](https://www.facebook.com/events/473514299457307/?ref_newsfeed_story_type=regular)
-* 2014-11-14 [Shake Hands 「私の今までとこれからの働き方」セミナー IN 広島](https://www.facebook.com/CoworkingShakeHands/posts/819405924777470)
 * 2014-11-19 [Shake Hands 誰でも参加OK!「第２回なるほど！大人が学ぶ食べもの研究会」食品表示からひも解く食材と添加物（マカロニサラダとお惣菜）](https://www.facebook.com/events/1565244310375243/)
 * 2014-11-26 [第2回 広島の楽しい100人](https://www.facebook.com/events/381577058675130/permalink/381577062008463/)
 * 2014-11-30 [PocketPlan 広島のサークルを盛り上げよう！！交流勉強会](https://www.facebook.com/events/473514299457307/permalink/473514302790640/)
