@@ -46,7 +46,7 @@ date:   2014-12-28 00:00:00
 
 # [すごい広島](http://great-h.github.io/)
 
-* 2014-12-22 [オープンセミナー2015@広島の詳細情報)  http://osh-we](http://www.facebook.com/great.hiroshima/posts/495448130597837)
+* 2014-12-22 [オープンセミナー2015@広島の詳細情報](http://www.facebook.com/great.hiroshima/posts/495448130597837)
 * 2014-12-23 [ゆるい広島AdeventCalendar 22日目 いっぱいいっぱいのため池](http://www.facebook.com/great.hiroshima/posts/495771020565548)
 * 2014-12-23 [ゆるい広島AdeventCalendar 23日目 ネタ帳には爆笑ネタがあるのですが、家に忘れてきました。](http://www.facebook.com/great.hiroshima/posts/495983667210950)
 * 2014-12-24 [ゆるい広島AdeventCalendar 23日目 みんなと行きたい広島観光スポット](http://www.facebook.com/great.hiroshima/posts/496463587162958)
