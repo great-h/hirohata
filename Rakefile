@@ -23,3 +23,8 @@ task :report do
     io.puts body
   end
 end
+
+desc 'webサイトを開く'
+task :open do
+  Launchy.open 'http://great-h.github.io/hirohata/'
+end
