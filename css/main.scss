@@ -9,6 +9,11 @@ $base-color: #a00;
 
 body {
     margin: 0;
+    background-color: $base-color;
+
+    .body-wrapper {
+	background-color: white;
+    }
 }
 
 a {
@@ -89,9 +94,8 @@ a {
 }
 
 .site-footer {
-    padding: 80px 8%;
+    padding: 40px 8% 80px;
     background-color: $base-color;
-    height: 200px;
 
     .footer-heading {
 	font-size: 14px;
