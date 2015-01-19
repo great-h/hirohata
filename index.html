@@ -2,22 +2,30 @@
 layout: default
 ---
 
+<div class="hero-wrapper">
+<div class="hero">
+  <div class="text">
+    <p>
+      このサイトは<a href="http://hiro-hata.com/" target="_blank">ヒロハタ</a>をより盛り上げるために、各ユニットの活動を勝手にまとめるサイトです。
+    <p>
+    <p>
+      毎週月曜日にレポートを作成しています。
+    </p>
+  </div>
+</div>
+</div>
+
 <div class="home">
-
-  このサイトは<a href="http://hiro-hata.com/" target="_blank">ヒロハタ</a>をより盛り上げるために、各ユニットを勝手に応援するためのサイトです。
-  毎週月曜日にレポートを作成する予定です。
-
   <h1>レポート</h1>
 
   <ul class="posts">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 5 %}
       <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
     {% endfor %}
   </ul>
-
+  <p><a href="{{ "/archives/" | prepend: site.baseurl }}">過去のレポート</a></p>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
