@@ -126,7 +126,7 @@ a {
 
 .post-content {
     margin: 40px 8%;
-    max-width: 400px;
+    max-width: 800px;
 
     p {
 	color: black;
@@ -144,4 +144,8 @@ a {
 	display: block;
 	margin: 0 0 0.8em 0;
     }
+}
+
+.organization, .name, .event-name, .event-date {
+    display: inline-block;
 }
