@@ -1,3 +1,4 @@
+* 2015-02-03 [セミナーの運び方](https://www.facebook.com/events/348284042039930/?ref_newsfeed_story_type=regular)
 * 2015-02-07 [CMSの回 vol.2]http://kawa-tani.com/cms-hands-on/
 * 2015-02-19 [サービス、ホスピタリティとは何か。  次の３点にスポットを当てます。 ■おもてなし心を現実にする ■気づきのあるスタッフを育てる ■感動のサービスチームを創るリーダーになる為に  人に接する仕事をしてい](http://www.facebook.com/CoworkingShakeHands/posts/865030323548363)
 * 2015-02-21 [第30回 岡山WEBクリエイターズ「UI・UX」](https://www.facebook.com/events/350211541847264/)
