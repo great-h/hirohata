@@ -7,7 +7,7 @@ date:   2015-02-01 00:00:00
 # 今週の予定
 
 * 2015-02-03 MOVIN'ON [セミナーの運び方](https://www.facebook.com/events/348284042039930/?ref_newsfeed_story_type=regular)
-* 2015-02-07 MOVIN'ON [CMSの回 vol.2](http://kawa-tani.com/cms-hands-on/)
+* 2015-02-07 MOVIN'ON [CMSの会 vol.2](http://kawa-tani.com/cms-hands-on/)
 
 
 # [ヒロハタ](http://hiro-hata.com/)
