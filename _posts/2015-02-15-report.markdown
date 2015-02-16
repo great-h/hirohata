@@ -6,7 +6,6 @@ date:   2015-02-15 00:00:00
 
 # 今週のイベント
 
-* 2015-02-17 PocketPlan 13〜14時放送のFM東広島「EASTじゃけん」で紹介されます。
 * 2015-02-19 [2時間でおもてなしの達人になるコツをつかむ](http://www.facebook.com/CoworkingShakeHands/posts/865030323548363)
 * 2015-02-21 [第30回 岡山WEBクリエイターズ「UI・UX」](https://www.facebook.com/events/350211541847264/)
 * 2015-02-21 [第4回LBI サロン @広島 Web Touch meeting 共催](http://www.lbi.gr.jp/modules/eguide/event.php?eid=57)
