@@ -10,6 +10,7 @@ date:   2015-02-22 00:00:00
 
 * 2015-02-27 [珈琲片手にウェアラブルでアイディアソンしてみませか？ - DevLOVE広島](http://devlove-hiroshima.doorkeeper.jp/events/20453)
 * 2015-02-28 [ひろしまクリエイティブミーティング](http://www.hiroshima-u.ac.jp/news/show/id/22295)
+* 2015-02-28 03-01 [UX HIROSHIMA #02-#03 UX概論講義・ユーザー評価](http://uxhiroshima.peatix.com/view)
 
 # [MOVIN'ON](http://coworking-hiroshima.com/)
 
