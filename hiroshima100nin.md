@@ -57,12 +57,31 @@ events:
   -
     name: 第4回
     date: 2015年3月28日
+    url: https://www.facebook.com/events/744646872281891/
+    speakers:
+      -
+        name: "[竹中庸子](https://www.facebook.com/takenaka.yoko.3)"
+        organization: "[特定非営利活動法人 もちもちの木](https://www.facebook.com/pages/%E7%89%B9%E5%AE%9A%E9%9D%9E%E5%96%B6%E5%88%A9%E6%B4%BB%E5%8B%95%E6%B3%95%E4%BA%BA-%E3%82%82%E3%81%A1%E3%82%82%E3%81%A1%E3%81%AE%E6%9C%A8/159545200813770?pnref=lhc)"
+      -
+        name: "[織田健司](https://www.facebook.com/kenji.oda.121)"
+        organization: "[広島ものづくりジム](https://www.facebook.com/monogym?pnref=lhc)"
+      -
+        name: "[中村純](http://home.riise.hiroshima-u.ac.jp/~nakamura/)"
+        organization: "[広島大学情報メディア教育研究センター](http://www.media.hiroshima-u.ac.jp/)"
+      -
+        name: "[平尾順平](https://www.facebook.com/jumpei.hirao)"
+        organization: "[ひろしまジン大学](http://hirojin.univnet.jp/)"
 ---
 
 
 * [広島の楽しい100人](https://www.facebook.com/h100parson)
 
-| 開催日 | 登壇者1 | 登壇者2 | 登壇者3 | 登壇者4 |
-|--|--|--|--|--|
-{% for event in page.events %}| <span class="event-date">{{ event.date }}</span> <span class="event-name">[{{ event.name }}]({{ event.url }})</span> | {% for speaker in event.speakers %} <span class="name">{{ speaker.name }}</span> <span class="organization">{{ speaker.organization }}</span> | {% endfor %}
+<table class="h100nin">
+{% for event in page.events %}
+  <tr>
+  <th><span class="event-date">{{ event.date }}</span> <span class="event-name"><a href="{{ event.url }}">{{ event.name }}</a></span></th>
+  {% for speaker in event.speakers %}
+    <td><span class="name" markdown="1">{{ speaker.name }}</span> <span class="organization" markdown="1">{{ speaker.organization }}</span></td>
+  {% endfor %}
 {% endfor %}
+</table>

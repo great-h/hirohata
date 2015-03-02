@@ -149,3 +149,30 @@ a {
 .organization, .name, .event-name, .event-date {
     display: inline-block;
 }
+
+table   { width: 100%; }
+th, td  { padding: 10px; border: 1px solid #ddd; }
+.h100nin th  { background: #f4f4f4; }
+.h100nin th, .h100nin td  { width: 20%; text-align: left; }
+@media only screen and (max-width: 480px) {
+    .h100nin{ margin: 0 -10px; }
+    .h100nin tr {
+        display:block;
+        margin-bottom: 10px;
+    }
+    .h100nin th {
+        display:block;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .h100nin td {
+        display: list-item;
+        width: 90%;
+        margin-left: 10%;
+        border:none;
+    }
+    .post-content .h100nin a {
+        margin: 0;
+    }
+}
