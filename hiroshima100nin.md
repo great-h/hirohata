@@ -11,12 +11,15 @@ events:
       -
         name: "[澤井 律子](https://www.facebook.com/sawairitsuko)"
         organization: "[ひろしま着物遊び](http://www.kimonoasobi.info)"
+        movie: "https://www.youtube.com/watch?v=RHGaHWtGGh4"
       -
         name: "[沖本 和久](https://www.facebook.com/okazuhisa)"
         organization: "[フリップミュージック](http://www.frippmusic.com/)"
+        movie: "https://www.youtube.com/watch?v=TekB_ImULhM"
       -
         name: "[溝口 徹](https://www.facebook.com/toru.mizoguchi.142)"
         organization: "[横川シネマ](http://yokogawa-cine.jugem.jp/)"
+        movie: "https://www.youtube.com/watch?v=bF_1xfnWoWc"
       -
         name: "[モリマコ](https://twitter.com/morimako1)"
         organization: "[ケンダマロックカフェ](http://www.kendamarock.com/)"
@@ -28,15 +31,18 @@ events:
       -
         name: "[ゴトウイズミ](https://www.facebook.com/izumi.goto.353)"
         organization: "[ヲルガン座](http://www.organ-za.com/)"
+        movie: "https://www.youtube.com/watch?v=5tCXcLH4MhU"
       -
         name: "[篠原 良一郎](http://about.me/ryoichiro_shinohara)"
         organization: "[うちの婆様](https://www.facebook.com/basama88/)"
       -
         name: "[河口 知明](https://www.facebook.com/kohguchi)"
         organization: "[コスカレード](http://cosquerade.jp/)"
+        movie: "https://www.youtube.com/watch?v=Pf9FavhLpdk"
       -
         name: "[槌本 裕二](https://www.facebook.com/tsuchim)"
         organization: "[栄諧情報システム株式会社](http://eikai.co.jp/)"
+        movie: "https://www.youtube.com/watch?v=lVA0TO1OY6s"
   -
     name: 第3回
     date: 2015年1月24日
