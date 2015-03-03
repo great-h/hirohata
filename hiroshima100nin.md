@@ -67,7 +67,7 @@ events:
         organization: "[広島ものづくりジム](https://www.facebook.com/monogym?pnref=lhc)"
       -
         name: "[中村純](http://home.riise.hiroshima-u.ac.jp/~nakamura/)"
-        organization: "[広島大学情報メディア教育研究センター](http://www.media.hiroshima-u.ac.jp/)"
+        organization: "[私とパンフルート](http://home.riise.hiroshima-u.ac.jp/~nakamura/AN/)"
       -
         name: "[平尾順平](https://www.facebook.com/jumpei.hirao)"
         organization: "[ひろしまジン大学](http://hirojin.univnet.jp/)"
