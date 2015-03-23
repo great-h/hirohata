@@ -1,3 +1,5 @@
-* 2015-03-28 [第１回 サークル合同説明会 HICLEN](http://www.facebook.com/events/1610253512526898/permalink/1610253515860231/)
-* 2015-03-28 [第４回 広島の楽しい100人](https://www.facebook.com/events/718769384910836)
+* 2015-03-20 [はじめてのkintone オンライン・ライブセミナー Vol.1](https://www.facebook.com/CoworkingShakeHands/posts/901950463189682)
 * 2015-04-04 [たてもの ディープ・トーク 百歳の産業奨励館](http://www.oa-hiroshima.org/event/event150404.html)
+* 2015-04-26 [「コズミック・ラボ」から、「子ども宇宙アカデミー」へ](http://kodomo-career.com/info/news/591.html?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%258c%25e3%2582%25b3%25e3%2582%25ba%25e3%2583%259f%25e3%2583%2583%25e3%2582%25af%25e3%2583%25bb%25e3%2583%25a9%25e3%2583%259c%25e3%2580%258d%25e3%2581%258b%25e3%2582%2589%25e3%2580%2581%25e3%2580%258c%25e5%25ad%2590%25e3%2581%25a9%25e3%2582%2582%25e5%25ae%2587%25e5%25ae%2599%25e3%2582%25a2%25e3%2582%25ab%25e3%2583%2587)
+* 2015-05-03 [うごくキマグレランチ](http://www.facebook.com/events/1570212226574512/permalink/1570212229907845/)
+* 2015-05-24 [子どもの探究心を育てよう！　探究Live in Hiroshima　5/24（日）開催！](http://kodomo-career.com/info/news/580.html?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25ad%2590%25e3%2581%25a9%25e3%2582%2582%25e3%2581%25ae%25e6%258e%25a2%25e7%25a9%25b6%25e5%25bf%2583%25e3%2582%2592%25e8%2582%25b2%25e3%2581%25a6%25e3%2582%2588%25e3%2581%2586%25ef%25bc%2581%25e3%2580%2580%25e6%258e%25a2%25e7%25a9%25b6live-in-hiroshima%25e3%2580%2580524%25ef%25bc%2588%25e6%2597%25a5)
