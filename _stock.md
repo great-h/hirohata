@@ -1,6 +1,3 @@
-* 2015-04-20 [【IT界の女帝広島降臨イベント】ワクワクすることだけやればいい？？](https://www.facebook.com/events/1569545200000724/)
-* 2015-04-20 [【奥田サロン＠広島】起業して輝くか、企業で輝くか。](https://www.facebook.com/events/1560227940906379/)
-* 2015-04-25 [WEB TOUCH MEETING 77](https://webtouchmeeting.doorkeeper.jp/events/22976)
 * 2015-04-26 [「コズミック・ラボ」から、「子ども宇宙アカデミー」へ](http://kodomo-career.com/info/news/591.html?utm_source=rss&utm_medium=rss&utm_campaign=%25e3%2580%258c%25e3%2582%25b3%25e3%2582%25ba%25e3%2583%259f%25e3%2583%2583%25e3%2582%25af%25e3%2583%25bb%25e3%2583%25a9%25e3%2583%259c%25e3%2580%258d%25e3%2581%258b%25e3%2582%2589%25e3%2580%2581%25e3%2580%258c%25e5%25ad%2590%25e3%2581%25a9%25e3%2582%2582%25e5%25ae%2587%25e5%25ae%2599%25e3%2582%25a2%25e3%2582%25ab%25e3%2583%2587)
 * 2015-05-03 [うごくキマグレランチ](http://www.facebook.com/events/1570212226574512/permalink/1570212229907845/)
 * 2015-05-17 [みやじまシャルソン2015](http://miyajimacialthon2015.peatix.com/)
