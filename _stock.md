@@ -1,2 +1,1 @@
-* 2015-05-17 [みやじまシャルソン2015](http://miyajimacialthon2015.peatix.com/)
-* 2015-05-24 [子どもの探究心を育てよう！　探究Live in Hiroshima　5/24（日）開催！](http://kodomo-career.com/info/news/580.html?utm_source=rss&utm_medium=rss&utm_campaign=%25e5%25ad%2590%25e3%2581%25a9%25e3%2582%2582%25e3%2581%25ae%25e6%258e%25a2%25e7%25a9%25b6%25e5%25bf%2583%25e3%2582%2592%25e8%2582%25b2%25e3%2581%25a6%25e3%2582%2588%25e3%2581%2586%25ef%25bc%2581%25e3%2580%2580%25e6%258e%25a2%25e7%25a9%25b6live-in-hiroshima%25e3%2580%2580524%25ef%25bc%2588%25e6%2597%25a5)
+* 2015-06-23 [藻谷浩介さんミニ講演会](https://www.facebook.com/events/851648748249449/permalink/851648751582782/)
