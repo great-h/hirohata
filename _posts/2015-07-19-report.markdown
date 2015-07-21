@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "2015年07月19日までの各ユニットの活動"
+date:   2015-07-19 00:00:00
+---
+
+# 今週のイベント
+
+* 2015-07-20 [【探究チャレンジ】ドレミとピタゴラス　7月20日（月・祝）開催！](http://kodomo-career.com/info/news/622.html)
+* 2015-07-25 [ヒロハタ中間発表会](http://hiro-hata.com/midterm_presentation)
+* 2015-07-26 [うごくキマグレミーティング](https://www.facebook.com/kimaguremeeting/posts/848476388562262)
+* 2015-07-26 [夏休みの子ども宇宙アカデミー](http://kodomo-career.com/info/event/685.html)
+* 2015-07-26 [第６回広島の楽しい100人×PechaKuchaNight Hiroshima](https://www.facebook.com/h100parson/posts/1609343536007452)
+
+
+# [MOVIN'ON](http://coworking-hiroshima.com/)
+
+* 2015-07-14 [ハーブコーディネーターMisa先生の、ワークショップで、ハーブSALT作りました](https://www.facebook.com/movinon.hiroshima/posts/975453895808722)
+
+
+# [Shakehands](http://www.shakehands.jp/)
+
+* 2015-07-18 [仕事に効く読書会を開催](https://www.facebook.com/CoworkingShakeHands/posts/863724683681655)
+* 2015-07-18 [7月28日にJimdoCafe 広島 Vol.1 (One) 「Jimdoもくもく」と「アクセス解析」を開催します](https://www.facebook.com/CoworkingShakeHands/posts/965886070129454)
+
+# [広島の楽しい100人](https://www.facebook.com/h100parson)
+
+* 2015-07-13 [第6回 広島の楽しい100人の3人目の登壇者をご紹介します](https://www.facebook.com/h100parson/posts/1608148566126949)
+* 2015-07-14 [第6回 広島の楽しい100人の4人目の登壇者をご紹介](https://www.facebook.com/h100parson/posts/1608560219419117)
+* 2015-07-15 [第5回にご登壇いただいた三輪康志さんが、アンケートのご質問へご回答くださいました♪](https://www.facebook.com/h100parson/posts/1608861516055654)
+* 2015-07-16 [いいね！が600になりました！](https://www.facebook.com/h100parson/posts/1609046236037182)
+* 2015-07-16 [広島の楽しい100人×ペチャクチャナイト共催イベントチラシ完成!!](https://www.facebook.com/h100parson/posts/1609122386029567)
+* 2015-07-18 [第6回 楽しい100人のチラシ配布場所](https://www.facebook.com/h100parson/posts/1609861619288977)
+
+
+# [子どもキャリア塾](http://kodomo-career.com/)
+
+* 2015-07-18 [夏休みの子ども宇宙アカデミー](http://kodomo-career.com/info/event/685.html)
+
+
+# [メガフォン](https://github.com/tsuchim/megaphone)
+
+* 2015-07-15 [後半戦に向けて少しバージョンアップします](https://www.facebook.com/mega0phone/posts/811745858944083)
+
+
+# [すごい広島](http://great-h.github.io/)
+
+* 2015-07-15 [Peace Week Hirohima Nagasaki公開しました](http://peaceweek-hironaga.com/](https://www.facebook.com/great.hiroshima/posts/585830481559601)
