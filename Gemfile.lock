@@ -150,6 +150,7 @@ GEM
     rack (1.6.4)
     rails-html-sanitizer (1.0.2)
       loofah (~> 2.0)
+    rake (10.4.2)
     rb-fsevent (0.9.5)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
@@ -185,4 +186,8 @@ DEPENDENCIES
   github-pages
   hirohata-reporter
   launchy
+  rake
   refills
+
+BUNDLED WITH
+   1.10.6
